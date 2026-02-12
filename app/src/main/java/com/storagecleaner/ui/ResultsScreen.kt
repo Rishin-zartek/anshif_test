@@ -26,7 +26,6 @@ fun ResultsScreen(
 ) {
     val context = LocalContext.current
     val fileList by viewModel.fileList.collectAsState()
-    val selectedFiles by viewModel.selectedFiles.collectAsState()
     
     var showDeleteDialog by remember { mutableStateOf(false) }
     var showInfoDialog by remember { mutableStateOf<FileItem?>(null) }
