@@ -1,0 +1,423 @@
+{
+  "foods": [
+    {
+      "id": "1",
+      "name": "Puttu",
+      "category": "breakfast",
+      "caloriesPer100g": 130,
+      "protein": 2.5,
+      "carbs": 28.0,
+      "fat": 0.5
+    },
+    {
+      "id": "2",
+      "name": "Appam",
+      "category": "breakfast",
+      "caloriesPer100g": 120,
+      "protein": 2.0,
+      "carbs": 25.0,
+      "fat": 1.0
+    },
+    {
+      "id": "3",
+      "name": "Idli",
+      "category": "breakfast",
+      "caloriesPer100g": 58,
+      "protein": 2.0,
+      "carbs": 12.0,
+      "fat": 0.2
+    },
+    {
+      "id": "4",
+      "name": "Dosa",
+      "category": "breakfast",
+      "caloriesPer100g": 168,
+      "protein": 3.5,
+      "carbs": 28.0,
+      "fat": 4.0
+    },
+    {
+      "id": "5",
+      "name": "Upma",
+      "category": "breakfast",
+      "caloriesPer100g": 150,
+      "protein": 3.0,
+      "carbs": 25.0,
+      "fat": 4.0
+    },
+    {
+      "id": "6",
+      "name": "Kadala Curry",
+      "category": "breakfast",
+      "caloriesPer100g": 120,
+      "protein": 6.0,
+      "carbs": 18.0,
+      "fat": 3.0
+    },
+    {
+      "id": "7",
+      "name": "Coconut Chutney",
+      "category": "breakfast",
+      "caloriesPer100g": 180,
+      "protein": 2.0,
+      "carbs": 8.0,
+      "fat": 16.0
+    },
+    {
+      "id": "8",
+      "name": "Sambar",
+      "category": "lunch",
+      "caloriesPer100g": 85,
+      "protein": 3.5,
+      "carbs": 12.0,
+      "fat": 2.5
+    },
+    {
+      "id": "9",
+      "name": "Kerala Rice (Boiled)",
+      "category": "lunch",
+      "caloriesPer100g": 130,
+      "protein": 2.7,
+      "carbs": 28.0,
+      "fat": 0.3
+    },
+    {
+      "id": "10",
+      "name": "Fish Curry (Kerala Style)",
+      "category": "lunch",
+      "caloriesPer100g": 150,
+      "protein": 18.0,
+      "carbs": 5.0,
+      "fat": 7.0
+    },
+    {
+      "id": "11",
+      "name": "Avial",
+      "category": "lunch",
+      "caloriesPer100g": 95,
+      "protein": 2.5,
+      "carbs": 12.0,
+      "fat": 4.0
+    },
+    {
+      "id": "12",
+      "name": "Thoran (Cabbage)",
+      "category": "lunch",
+      "caloriesPer100g": 75,
+      "protein": 2.0,
+      "carbs": 8.0,
+      "fat": 4.0
+    },
+    {
+      "id": "13",
+      "name": "Rasam",
+      "category": "lunch",
+      "caloriesPer100g": 45,
+      "protein": 1.5,
+      "carbs": 8.0,
+      "fat": 1.0
+    },
+    {
+      "id": "14",
+      "name": "Chicken Curry (Kerala Style)",
+      "category": "lunch",
+      "caloriesPer100g": 180,
+      "protein": 20.0,
+      "carbs": 6.0,
+      "fat": 9.0
+    },
+    {
+      "id": "15",
+      "name": "Beef Fry",
+      "category": "lunch",
+      "caloriesPer100g": 250,
+      "protein": 26.0,
+      "carbs": 3.0,
+      "fat": 15.0
+    },
+    {
+      "id": "16",
+      "name": "Parotta",
+      "category": "dinner",
+      "caloriesPer100g": 300,
+      "protein": 6.0,
+      "carbs": 45.0,
+      "fat": 10.0
+    },
+    {
+      "id": "17",
+      "name": "Banana Chips",
+      "category": "snack",
+      "caloriesPer100g": 520,
+      "protein": 2.0,
+      "carbs": 52.0,
+      "fat": 34.0
+    },
+    {
+      "id": "18",
+      "name": "Pazham Pori",
+      "category": "snack",
+      "caloriesPer100g": 200,
+      "protein": 2.5,
+      "carbs": 35.0,
+      "fat": 6.0
+    },
+    {
+      "id": "19",
+      "name": "Sundal",
+      "category": "snack",
+      "caloriesPer100g": 140,
+      "protein": 7.0,
+      "carbs": 22.0,
+      "fat": 2.0
+    },
+    {
+      "id": "20",
+      "name": "Vada",
+      "category": "snack",
+      "caloriesPer100g": 245,
+      "protein": 5.0,
+      "carbs": 28.0,
+      "fat": 12.0
+    },
+    {
+      "id": "21",
+      "name": "Malabar Parotta",
+      "category": "dinner",
+      "caloriesPer100g": 320,
+      "protein": 7.0,
+      "carbs": 48.0,
+      "fat": 11.0
+    },
+    {
+      "id": "22",
+      "name": "Egg Roast",
+      "category": "breakfast",
+      "caloriesPer100g": 155,
+      "protein": 13.0,
+      "carbs": 2.0,
+      "fat": 11.0
+    },
+    {
+      "id": "23",
+      "name": "Payasam",
+      "category": "snack",
+      "caloriesPer100g": 180,
+      "protein": 3.0,
+      "carbs": 30.0,
+      "fat": 5.0
+    },
+    {
+      "id": "24",
+      "name": "Olan",
+      "category": "lunch",
+      "caloriesPer100g": 90,
+      "protein": 2.0,
+      "carbs": 10.0,
+      "fat": 5.0
+    },
+    {
+      "id": "25",
+      "name": "Erissery",
+      "category": "lunch",
+      "caloriesPer100g": 110,
+      "protein": 3.0,
+      "carbs": 15.0,
+      "fat": 4.0
+    },
+    {
+      "id": "26",
+      "name": "Meen Pollichathu",
+      "category": "lunch",
+      "caloriesPer100g": 160,
+      "protein": 19.0,
+      "carbs": 4.0,
+      "fat": 8.0
+    },
+    {
+      "id": "27",
+      "name": "Prawn Curry",
+      "category": "lunch",
+      "caloriesPer100g": 140,
+      "protein": 17.0,
+      "carbs": 5.0,
+      "fat": 6.0
+    },
+    {
+      "id": "28",
+      "name": "Kappa (Tapioca)",
+      "category": "lunch",
+      "caloriesPer100g": 160,
+      "protein": 0.6,
+      "carbs": 38.0,
+      "fat": 0.3
+    },
+    {
+      "id": "29",
+      "name": "Meen Curry",
+      "category": "lunch",
+      "caloriesPer100g": 145,
+      "protein": 18.0,
+      "carbs": 4.0,
+      "fat": 7.0
+    },
+    {
+      "id": "30",
+      "name": "Parippu Curry",
+      "category": "lunch",
+      "caloriesPer100g": 115,
+      "protein": 8.0,
+      "carbs": 18.0,
+      "fat": 1.0
+    },
+    {
+      "id": "31",
+      "name": "Chemeen Masala",
+      "category": "lunch",
+      "caloriesPer100g": 155,
+      "protein": 16.0,
+      "carbs": 6.0,
+      "fat": 8.0
+    },
+    {
+      "id": "32",
+      "name": "Kozhikode Halwa",
+      "category": "snack",
+      "caloriesPer100g": 350,
+      "protein": 1.0,
+      "carbs": 70.0,
+      "fat": 8.0
+    }
+  ],
+  "recipes": [
+    {
+      "id": "r1",
+      "name": "Puttu with Kadala",
+      "ingredients": [
+        {"foodId": "1", "quantity": 150},
+        {"foodId": "6", "quantity": 100}
+      ]
+    },
+    {
+      "id": "r2",
+      "name": "Appam with Egg Roast",
+      "ingredients": [
+        {"foodId": "2", "quantity": 100},
+        {"foodId": "22", "quantity": 100}
+      ]
+    },
+    {
+      "id": "r3",
+      "name": "Idli with Sambar and Chutney",
+      "ingredients": [
+        {"foodId": "3", "quantity": 150},
+        {"foodId": "8", "quantity": 100},
+        {"foodId": "7", "quantity": 30}
+      ]
+    },
+    {
+      "id": "r4",
+      "name": "Dosa with Sambar",
+      "ingredients": [
+        {"foodId": "4", "quantity": 120},
+        {"foodId": "8", "quantity": 100}
+      ]
+    },
+    {
+      "id": "r5",
+      "name": "Kerala Meals",
+      "ingredients": [
+        {"foodId": "9", "quantity": 200},
+        {"foodId": "8", "quantity": 100},
+        {"foodId": "11", "quantity": 100},
+        {"foodId": "12", "quantity": 80},
+        {"foodId": "13", "quantity": 100}
+      ]
+    },
+    {
+      "id": "r6",
+      "name": "Fish Curry with Rice",
+      "ingredients": [
+        {"foodId": "9", "quantity": 200},
+        {"foodId": "10", "quantity": 150}
+      ]
+    },
+    {
+      "id": "r7",
+      "name": "Chicken Curry with Parotta",
+      "ingredients": [
+        {"foodId": "16", "quantity": 150},
+        {"foodId": "14", "quantity": 150}
+      ]
+    },
+    {
+      "id": "r8",
+      "name": "Beef Fry with Parotta",
+      "ingredients": [
+        {"foodId": "16", "quantity": 150},
+        {"foodId": "15", "quantity": 120}
+      ]
+    },
+    {
+      "id": "r9",
+      "name": "Kappa with Meen Curry",
+      "ingredients": [
+        {"foodId": "28", "quantity": 200},
+        {"foodId": "29", "quantity": 150}
+      ]
+    },
+    {
+      "id": "r10",
+      "name": "Prawn Curry with Rice",
+      "ingredients": [
+        {"foodId": "9", "quantity": 200},
+        {"foodId": "27", "quantity": 150}
+      ]
+    },
+    {
+      "id": "r11",
+      "name": "Upma Breakfast",
+      "ingredients": [
+        {"foodId": "5", "quantity": 150},
+        {"foodId": "7", "quantity": 30}
+      ]
+    },
+    {
+      "id": "r12",
+      "name": "Sadya Combo",
+      "ingredients": [
+        {"foodId": "9", "quantity": 200},
+        {"foodId": "8", "quantity": 100},
+        {"foodId": "11", "quantity": 100},
+        {"foodId": "24", "quantity": 80},
+        {"foodId": "25", "quantity": 80},
+        {"foodId": "23", "quantity": 100}
+      ]
+    },
+    {
+      "id": "r13",
+      "name": "Malabar Parotta with Chicken",
+      "ingredients": [
+        {"foodId": "21", "quantity": 150},
+        {"foodId": "14", "quantity": 150}
+      ]
+    },
+    {
+      "id": "r14",
+      "name": "Chemeen Masala with Rice",
+      "ingredients": [
+        {"foodId": "9", "quantity": 200},
+        {"foodId": "31", "quantity": 150}
+      ]
+    },
+    {
+      "id": "r15",
+      "name": "Parippu Curry with Rice",
+      "ingredients": [
+        {"foodId": "9", "quantity": 200},
+        {"foodId": "30", "quantity": 150},
+        {"foodId": "12", "quantity": 80}
+      ]
+    }
+  ]
+}
