@@ -35,7 +35,7 @@ class AppTheme {
           color: AppColors.textPrimary,
         ),
       ),
-      cardTheme: CardTheme(
+      cardTheme: CardThemeData(
         elevation: AppSpacing.cardElevation,
         shape: RoundedRectangleBorder(
           borderRadius: BorderRadius.circular(AppSpacing.cardRadius),
@@ -135,7 +135,7 @@ class AppTheme {
           color: AppColors.textPrimaryDark,
         ),
       ),
-      cardTheme: CardTheme(
+      cardTheme: CardThemeData(
         elevation: AppSpacing.cardElevation,
         shape: RoundedRectangleBorder(
           borderRadius: BorderRadius.circular(AppSpacing.cardRadius),
